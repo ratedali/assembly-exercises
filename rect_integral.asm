@@ -1,5 +1,5 @@
     section     .data
-file:           db      "C:\Users\ratedali\Documents\FunctionOfX.txt",0
+file:           db      "FunctionOfX.txt",0
 mode:           db      "r",0
 format:         db      "%lf %lf",0
 outformat:      db      "R = %f",0
